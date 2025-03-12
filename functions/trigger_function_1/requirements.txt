@@ -1,0 +1,5 @@
+functions-framework
+google-cloud-functions
+google-cloud-secret-manager
+solana==0.36.6
+solders==0.26.0
